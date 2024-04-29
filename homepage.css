@@ -1950,7 +1950,7 @@ color: #000000;
 }
 
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 700px) {
     header{
         background-color: white;
         max-width: 600px;
